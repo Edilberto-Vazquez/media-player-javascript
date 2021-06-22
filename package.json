@@ -1,0 +1,28 @@
+{
+  "name": "curso-javascript",
+  "version": "1.0.0",
+  "description": "media player in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edilberto-Vazquez/media-player-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Edilberto Vazquez <edi_vazquez12@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edilberto-Vazquez/media-player-javascript/issues"
+  },
+  "homepage": "https://github.com/Edilberto-Vazquez/media-player-javascript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
